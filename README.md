@@ -34,7 +34,7 @@ One thing stands out above everything else in 2026: writing code has gotten dram
 
 ---
 
-## [Kuberns](www.kuberns.com)
+## [Kuberns](https://kuberns.com)
 
 > **Category:** AI Agentic Cloud Deployment and Management Platform
 > **Website:** [kuberns.com](https://kuberns.com)
